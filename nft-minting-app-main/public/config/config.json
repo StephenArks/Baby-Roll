@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x1e813f3ac0365a27b4b4afd3ff609166435d7bd6",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/tx/0x54762b059f2d1f740763bece639ee9a9b06eb0c5d07fe50e14e9dc457b59024c",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Baby Roll NFT",
+  "SYMBOL": "BBRT",
+  "MAX_SUPPLY": 10,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/baby-roll-nft",
+  "SHOW_BACKGROUND": true
+}
